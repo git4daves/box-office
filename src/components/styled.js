@@ -7,14 +7,14 @@ export const FlexGrid = styled.div`
 `;
 
 export const SearchCard = styled.div`
-  width: 250px;
+  width: 300px;
   height: 100%;
   margin: 0 15px 40px;
 
   .img-wrapper {
     width: 100%;
     border-radius: 40px;
-    height: 350px;
+    height: 420px;
     overflow: hidden;
     border: 1px solid #ddd;
 
